@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Nice to meet you :) 
+I am a senior at Brandeis University studying Computer Science and Biology. These subjects give me a good time practicing my problem solving and analytical skills.
+Avid mystery and thriller reader 🔍
+
 <!--
 **NaomiHaser/NaomiHaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
